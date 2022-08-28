@@ -4,7 +4,7 @@
 
 ## Check the live link.
 
-[Hero section](https://shopify-clone-ten.vercel.app/)
+[Shopify](https://shopify-clone-ten.vercel.app/)
 
 ![badge](https://img.shields.io/badge/Vercel-Vercel-green)
  
